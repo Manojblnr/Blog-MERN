@@ -1,0 +1,18 @@
+
+client setup
+
+    1. npm create vite@latest
+    2. project name: client
+    3. framework: react
+    4. variant: JS + SWC for fast compilation
+    5. inside client -> npm install 
+
+
+Tailwindcss setup
+        link: https://tailwindcss.com/docs/guides/vite
+    
+    To run client :
+        npm run dev
+    
+
+    
