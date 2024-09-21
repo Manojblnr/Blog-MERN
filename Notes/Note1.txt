@@ -13,6 +13,28 @@ Tailwindcss setup
     
     To run client :
         npm run dev
-    
 
+
+Github setup
+    1. git init
+    2. git add .
+    3. git commit -m "message"
+
+    4. If not working:
+        git config --global user.email "manojblnr25@gmail.com"
+        git config --global user.name "manojDev"
     
+    5. In github create new repo
+    
+    6. push an existing repository from the command line
+        git remote add origin git@github.com:Manojblnr/Blog-MERN.git
+
+
+
+create pages and routes:
+
+    1. create a home, dashboard and other pages
+
+    2. Install react router dom
+
+    3. In the App.jsx file create routes for the pages
