@@ -38,3 +38,15 @@ create pages and routes:
     2. Install react router dom
 
     3. In the App.jsx file create routes for the pages
+
+
+create header components
+    This header component is available in all the routes so add it inside the browerRoute browerRoute
+    outside router
+
+Install flowbite react for UI component library
+    link: https://flowbite-react.com/docs/getting-started/introduction
+
+Header component create navbar
+    npm i react-icons
+
